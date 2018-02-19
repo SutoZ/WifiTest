@@ -1,0 +1,31 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 50BlKT6JNa/ExXwFootTsUIKVGQ=
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5MZf/bG5CPUMk0o9JeMlNet9siY=
+
+Name: res/layout/wifitest.xml
+SHA1-Digest: yFNeRgmRKwU1EqmuNzV/FFB6GCk=
+
+Name: res/menu/wifitest.xml
+SHA1-Digest: SA0mXh4EDaDByjkyUjpRjp27iYI=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: resources.arsc
+SHA1-Digest: 9FdzUWRe7a6AEPD2ydeWF9KYVYs=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: classes.dex
+SHA1-Digest: Gzy/bxaKgdH9JcPLGOzMRPYyvdI=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+

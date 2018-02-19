@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: X1ScmZ0vUf3yG4u3AWRGjnJZw/s=
+
+Name: res/layout/wifitest.xml
+SHA1-Digest: Rxm2lR+F4XSeXXR7nSbi/SA80Vs=
+
+Name: res/menu/wifitest.xml
+SHA1-Digest: eNFqO0w0sW+1Z+RmccyD94pOvTM=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: resources.arsc
+SHA1-Digest: DKefyEuLkFRHbRNL5VEcLALl2jI=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: classes.dex
+SHA1-Digest: 7QnQlNilOxKAb3meC6UAyEGLQ+g=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+

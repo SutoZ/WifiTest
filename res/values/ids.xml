@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="btnGetWifi">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="tvStatus">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>
